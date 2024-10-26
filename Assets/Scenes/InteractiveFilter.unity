@@ -418,7 +418,7 @@ MonoBehaviour:
   m_LightEstimationMode: -1
   m_AutoFocus: 1
   m_ImageStabilization: 0
-  m_LightEstimation: 0
+  m_LightEstimation: -1
   m_FacingDirection: 2
   m_RenderMode: 0
 --- !u!114 &2512387468973847772
@@ -782,7 +782,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3953666598771157, guid: d595989de7d3040a2b43cae2af2fc763, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 0.4
       objectReference: {fileID: 0}
     - target: {fileID: 3953666598771157, guid: d595989de7d3040a2b43cae2af2fc763, type: 3}
       propertyPath: m_LocalRotation.w
@@ -816,6 +816,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: GlassesGroup
+      objectReference: {fileID: 0}
+    - target: {fileID: 3562863459064454998, guid: d595989de7d3040a2b43cae2af2fc763,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
