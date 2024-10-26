@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5179775290895612243
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: b1b1f8341362b4be9acef1f6e26d1a2f,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b1b1f8341362b4be9acef1f6e26d1a2f,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b1b1f8341362b4be9acef1f6e26d1a2f,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b1b1f8341362b4be9acef1f6e26d1a2f,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b1b1f8341362b4be9acef1f6e26d1a2f,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b1b1f8341362b4be9acef1f6e26d1a2f,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b1b1f8341362b4be9acef1f6e26d1a2f,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b1b1f8341362b4be9acef1f6e26d1a2f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b1b1f8341362b4be9acef1f6e26d1a2f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b1b1f8341362b4be9acef1f6e26d1a2f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b1b1f8341362b4be9acef1f6e26d1a2f,
+        type: 3}
+      propertyPath: m_Name
+      value: CoolGlasses
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects:
+    - {fileID: 4088511875904941254, guid: b1b1f8341362b4be9acef1f6e26d1a2f, type: 3}
+    - {fileID: -9172123663045551536, guid: b1b1f8341362b4be9acef1f6e26d1a2f, type: 3}
+    - {fileID: -117334987287769072, guid: b1b1f8341362b4be9acef1f6e26d1a2f, type: 3}
+    - {fileID: 6859107324319617585, guid: b1b1f8341362b4be9acef1f6e26d1a2f, type: 3}
+    - {fileID: 2238249416642749085, guid: b1b1f8341362b4be9acef1f6e26d1a2f, type: 3}
+    - {fileID: -5768770960052212607, guid: b1b1f8341362b4be9acef1f6e26d1a2f, type: 3}
+    - {fileID: -3556817346404478780, guid: b1b1f8341362b4be9acef1f6e26d1a2f, type: 3}
+    - {fileID: -7488703009337899087, guid: b1b1f8341362b4be9acef1f6e26d1a2f, type: 3}
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b1b1f8341362b4be9acef1f6e26d1a2f, type: 3}
